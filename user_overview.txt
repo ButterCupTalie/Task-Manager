@@ -1,0 +1,24 @@
+
+The total number of users: 3
+The total number of tasks: 3
+
+User: admin
+Total number of tasks: 1
+Percentage of the total tasks: 33%
+Percentage of the tasks assigned to that user have been completed: 100%
+Percentage of the tasks assigned to that user must still be completed: 0%
+Percentage of the tasks assigned to that user have not yet been completed and are overdue 0%
+
+User: user1
+Total number of tasks: 2
+Percentage of the total tasks: 67%
+Percentage of the tasks assigned to that user have been completed: 50%
+Percentage of the tasks assigned to that user must still be completed: 50%
+Percentage of the tasks assigned to that user have not yet been completed and are overdue 0%
+
+User: user2
+Total number of tasks: 0
+Percentage of the total tasks: 0%
+Percentage of the tasks assigned to that user have been completed: 0%
+Percentage of the tasks assigned to that user must still be completed: 0%
+Percentage of the tasks assigned to that user have not yet been completed and are overdue 0%
